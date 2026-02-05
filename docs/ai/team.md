@@ -10,6 +10,7 @@
 DevOps Builds, CI, Release, Monitor 
 Product Manager (Scrum Master) find ways to improve CI, time tracking on tasks
 Performance
+Copyright - UA Engineer (technical) tech docs AI can leverage for API's...
 
 # Other tasks
 Review production metrics
